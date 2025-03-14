@@ -46,7 +46,7 @@ You'll be prompted for your TestPyPI username and password.
 To test the installation from TestPyPI:
 
 ```bash
-pip install --index-url https://test.pypi.org/simple/ opengeotech
+pip install --index-url https://test.pypi.org/simple/opengeotech
 ```
 
 ### 5. Upload to PyPI
