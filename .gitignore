@@ -22,4 +22,10 @@ ENV/
 # OS specific files
 .DS_Store
 *.sh
-Thumbs.db 
+Thumbs.db
+
+# Conda-forge recipe development
+staged-recipes/
+recipes/
+opengeotech-*.tar.gz
+pr_description.md 
